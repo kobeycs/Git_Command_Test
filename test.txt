@@ -1,4 +1,5 @@
 this is git command test!
+this test clone 方式
 
 
 
