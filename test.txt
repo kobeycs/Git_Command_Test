@@ -1,3 +1,17 @@
 this is git command test!
 
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 this merge test word!
+=======
+add 20122//this is branch test
+
+this is tranch test 01
+>>>>>>> dev01
